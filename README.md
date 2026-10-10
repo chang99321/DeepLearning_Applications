@@ -25,7 +25,6 @@ Apply feature extraction and fine-tuning using pretrained ImageNet models to cla
 - [TensorFlow: Transfer Learning with TensorFlow Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
 - [TensorFlow: Transfer Learning and Fine-Tuning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [TensorFlow Flowers Dataset](https://www.tensorflow.org/tutorials/images/classification)
-- [Keras Applications](https://keras.io/api/applications/)
 
 ### 4. Pneumonia Detection
 Develop a three-class image classification model to distinguish Normal, Bacterial, and Viral cases using transfer learning. Compare feature extraction and fine-tuning with different pretrained models.
@@ -34,7 +33,6 @@ Develop a three-class image classification model to distinguish Normal, Bacteria
 - [Kaggle: Pneumonia Detection Competition](https://www.kaggle.com/competitions/pneumonia-detection/data)
 - [TensorFlow: Transfer Learning with TensorFlow Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
 - [TensorFlow: Transfer Learning and Fine-Tuning](https://www.tensorflow.org/tutorials/images/transfer_learning)
-- [Keras Applications](https://keras.io/api/applications/)
 
 ### 5. Jena Climate Time Series Forecasting
 Develop a data-windowing approach for multivariate, multi-step time-series forecasting using the Jena Climate dataset. Compare Dense, CNN, and RNN models using RMSE and R² scores.
@@ -42,4 +40,3 @@ Develop a data-windowing approach for multivariate, multi-step time-series forec
 **References**
 - [TensorFlow: Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series)
 - [Jena Climate Dataset](https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip)
-- [Kaggle: Two Sigma Financial News — Additional Reference](https://www.kaggle.com/c/two-sigma-financial-news)
